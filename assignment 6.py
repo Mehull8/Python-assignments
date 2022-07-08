@@ -1,6 +1,6 @@
 #Assignment 6
-#Name: Navodit Gupta
-#SID : 21107082
+#Name: Mehul Sethi
+#SID : 21107095
 #Branch: Mechanical
 
 print("Q1")
